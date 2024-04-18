@@ -18,7 +18,7 @@ namespace BasicToDoList
                 Console.WriteLine("**************************");
                 Console.WriteLine("What would you like to do?");
                 Console.WriteLine("press '1' for add new task");
-                Console.WriteLine("press '2' for delete tast");
+                Console.WriteLine("press '2' for delete task");
                 Console.WriteLine("press '3' for view list");
                 Console.WriteLine("press '4' for Exit");
                 Console.WriteLine("**************************");
